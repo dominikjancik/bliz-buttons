@@ -1,4 +1,4 @@
-package com.mattfenlon.ghost;
+package net.domj.blizbuttons;
 
 
 import android.content.Intent;

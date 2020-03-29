@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/support_root"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!--Profile image for the chat head.-->
+
+    <ImageView
+        android:id="@+id/support_iv"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/life_buoy"
+        tools:ignore="ContentDescription" />
+
+    <ImageView
+        android:id="@+id/cards"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="58dp"
+        android:src="@drawable/playing_cards"
+        tools:ignore="ContentDescription" />
+
+</RelativeLayout>
