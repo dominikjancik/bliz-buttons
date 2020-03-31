@@ -7,8 +7,8 @@
 
     <gradient
         android:angle="45"
-        android:endColor="#0070587C"
-        android:startColor="#70587C"
+        android:startColor="#0070587C"
+        android:endColor="#70587C"
         android:type="linear" />
 
     <!--If your shape requires only one solid color-->
@@ -16,8 +16,8 @@
         android:color="#FFFFFF" />-->
 
     <size
-        android:width="140dp"
-        android:height="150dp" />
+        android:width="60dp"
+        android:height="220dp" />
 
     <!--Use android:dashWidth="2dp" and android:dashGap="2dp"
     to add dashes to your stroke-->
